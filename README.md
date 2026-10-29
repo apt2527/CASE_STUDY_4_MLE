@@ -1,5 +1,5 @@
 
-DATASET LINK: https://www.archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii?utm_source=chatgpt.com
+DATASET LINK: https://www.archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
 
 
 # Customer Segmentation Using RFM Analysis and K-Means Clustering
